@@ -6,3 +6,5 @@ los datos que se necesitan para la realización de  los calculos son los siguien
 
 columnas:
 Año-Mes-Consumo-Produccion.
+
+Tambien encontrara un Excel de muestra llamdo "datos consumo", puede usarlo como plantilla.
